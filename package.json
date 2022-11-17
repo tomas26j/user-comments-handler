@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/tomas26j/users-comments-handler/issues"
   },
-  "homepage": "https://github.com/tomas26j/users-comments-handler#readme"
+  "homepage": "https://github.com/tomas26j/users-comments-handler#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "telegram-bot-api": "^2.0.1"
+  }
 }
